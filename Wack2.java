@@ -9,7 +9,7 @@ public class Wack2 {
 	public static void main(String[] args) throws AWTException {
 		
 		Robot robot = new Robot();
-		long endTime = System.currentTimeMillis()+60000; // 3 min
+		long endTime = System.currentTimeMillis()+60000; // 1 min
 		
 		
 		int x [] = {290,365,410,435,715,900,810,1130,990,900,780,600,480,590,680,800,880,960};
